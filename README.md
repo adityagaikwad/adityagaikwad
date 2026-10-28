@@ -1,6 +1,6 @@
 <p align="left">
   <strong>Programming Languages</strong><br />
-  <sub>Hover an icon to see its name</sub><br /><br />
+  <br />
   <img src="./assets/icons/python.svg" title="Python" alt="Python" width="34" hspace="4" />
   <img src="./assets/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="34" hspace="4" />
   <img src="./assets/icons/typescript.svg" title="TypeScript" alt="TypeScript" width="34" hspace="4" />
@@ -12,7 +12,7 @@
 
 <p align="left">
   <strong>Frameworks and Tools</strong><br />
-  <sub>Hover an icon to see its name</sub><br /><br />
+  <br />
   <img src="./assets/icons/nodejs.svg" title="Node.js" alt="Node.js" width="34" hspace="4" />
   <img src="./assets/icons/angular.svg" title="Angular" alt="Angular" width="34" hspace="4" />
   <img src="./assets/icons/express.svg" title="Express" alt="Express" width="34" hspace="4" />
@@ -35,7 +35,7 @@
 
 <p align="left">
   <strong>Databases</strong><br />
-  <sub>Hover an icon to see its name</sub><br /><br />
+  <br />
   <img src="./assets/icons/mysql.svg" title="MySQL" alt="MySQL" width="34" hspace="4" />
   <img src="./assets/icons/redis.svg" title="Redis" alt="Redis" width="34" hspace="4" />
   <img src="./assets/icons/mongodb.svg" title="MongoDB" alt="MongoDB" width="34" hspace="4" />
