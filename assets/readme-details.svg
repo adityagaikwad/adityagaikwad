@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="385" viewBox="0 0 850 385" role="img" aria-labelledby="title desc">
+  <title id="title">Aditya Gaikwad profile details</title>
+  <desc id="desc">Engineering approach, current role, and systems work.</desc>
+  <style>.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}.label{fill:#a3a3a3;font-size:12px;letter-spacing:.7px}.muted{fill:#5f5f5f;font-size:12px}.body{fill:#ededed;font-size:14px}</style>
+  <rect width="850" height="385" fill="#0a0a0a"/><rect x=".5" y=".5" width="849" height="384" fill="none" stroke="#262626"/>
+  <line x1="425" y1="0" x2="425" y2="145" stroke="#2a2a2a" stroke-dasharray="4 3"/>
+  <text class="mono label" x="24" y="25">ENGINEERING MODE</text><text class="mono muted" x="24" y="55">AI-assisted, not AI-replaced.</text><text class="mono body" x="24" y="88">structured inputs  ·  deterministic tooling</text><text class="mono body" x="24" y="116">tracing  ·  evaluation harnesses</text>
+  <text class="mono label" x="449" y="25">PROFILE</text><text class="mono muted" x="449" y="55">CURRENT ROLE</text><text class="mono body" x="449" y="79">SDE II @ Amazon</text><text class="mono muted" x="449" y="109">BACKGROUND</text><text class="mono body" x="449" y="133">Senior Engineer @ Meta · VMware / Broadcom</text>
+  <line x1="0" y1="145" x2="850" y2="145" stroke="#2a2a2a" stroke-dasharray="4 3"/>
+  <text class="mono label" x="24" y="170">SYSTEMS LOG</text><text class="mono muted" x="120" y="170">· Work I Am Proud Of</text>
+  <rect x="24" y="189" width="5" height="5" fill="#ededed"/><text class="mono body" x="42" y="196">Amazon Catalog Contribution Pipeline</text><text class="mono muted" x="42" y="217">Data-consistency gates for high-volume catalog publishing</text>
+  <rect x="24" y="245" width="5" height="5" fill="#ededed"/><text class="mono body" x="42" y="252">AI Diagnostic Knowledge Graph</text><text class="mono muted" x="42" y="273">Expanding diagnostic coverage across an ingestion pipeline</text>
+  <rect x="24" y="301" width="5" height="5" fill="#ededed"/><text class="mono body" x="42" y="308">Agentic Infrastructure And Data Tooling</text><text class="mono muted" x="42" y="329">Meta, VMware, And Broadcom systems work</text>
+  <line x1="0" y1="350" x2="850" y2="350" stroke="#2a2a2a" stroke-dasharray="4 3"/>
+  <text class="mono muted" x="24" y="375">Pinned repositories below are the public workbench</text><text class="mono muted" x="826" y="375" text-anchor="end">linkedin.com/in/aditya-gaikwad</text>
+</svg>

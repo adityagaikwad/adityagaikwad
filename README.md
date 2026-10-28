@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adityagaikwad/adityagaikwad/main/assets/readme-v4.svg?v=stack" alt="Aditya Gaikwad - engineering profile" width="850" />
+  <img src="https://raw.githubusercontent.com/adityagaikwad/adityagaikwad/main/assets/readme-header.svg" alt="Aditya Gaikwad - engineering profile" width="850" />
 </p>
+
 <p align="left">
   <strong>Programming Languages</strong><br />
   <br />
@@ -44,4 +45,8 @@
   <img src="./assets/icons/mongodb.svg" title="MongoDB" alt="MongoDB" width="34" hspace="4" />
   <img src="./assets/icons/clickhouse.svg" title="ClickHouse" alt="ClickHouse" width="34" hspace="4" />
   <img src="./assets/icons/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="34" hspace="4" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adityagaikwad/adityagaikwad/main/assets/readme-details.svg" alt="Aditya Gaikwad - engineering profile details" width="850" />
 </p>
