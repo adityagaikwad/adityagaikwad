@@ -54,14 +54,14 @@
     <text class="mono label" x="24" y="25">SYSTEMS LOG</text>
     <text class="mono muted" x="120" y="25">· work I am proud of</text>
     <rect x="24" y="45" width="5" height="5" fill="url(#dots)"/>
-    <text class="mono body" x="42" y="52">AI agents for storage-platform operations</text>
-    <text class="mono muted" x="42" y="73">routing, structured data, and evals for operational investigations</text>
+    <text class="mono body" x="42" y="52" style="font-size:12px">AI agents for storage operations</text>
+    <text class="mono muted" x="42" y="73">routing · structured data · evaluation harnesses</text>
     <rect x="24" y="102" width="5" height="5" fill="url(#dots)"/>
-    <text class="mono body" x="42" y="109">Infrastructure automation and capacity fulfillment</text>
-    <text class="mono muted" x="42" y="130">reducing manual work while improving operator confidence</text>
+    <text class="mono body" x="42" y="109" style="font-size:12px">Infrastructure automation + capacity fulfillment</text>
+    <text class="mono muted" x="42" y="130">less manual work · more operator confidence</text>
     <rect x="24" y="159" width="5" height="5" fill="url(#dots)"/>
-    <text class="mono body" x="42" y="166">Distributed data and search systems</text>
-    <text class="mono muted" x="42" y="187">Kubernetes, Kafka, cloud control planes, and large-scale telemetry</text>
+    <text class="mono body" x="42" y="166" style="font-size:12px">Distributed data + search systems</text>
+    <text class="mono muted" x="42" y="187">Kubernetes · Kafka · cloud control planes</text>
     <line x1="425" y1="0" x2="425" y2="214" stroke="#2a2a2a" stroke-dasharray="4 3"/>
     <text class="mono label" x="449" y="25">PROFILE</text>
     <text class="mono small" x="449" y="57">CURRENT ROLE</text>
