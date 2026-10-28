@@ -139,7 +139,7 @@ def card():
         scale -= 1
     x_name, y_name = PAD, 60
     cursor_x = x_name + pixel_width(name, scale) + 2 * scale
-    header_height = 130
+    header_height = 185
     stack_height, stack = stack_section()
     detail_height = 178
     systems_height = 188
