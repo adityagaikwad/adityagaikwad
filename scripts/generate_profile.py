@@ -137,7 +137,7 @@ def card():
     scale = 6
     while pixel_width(name, scale) + 4 * scale > WIDTH - 2 * PAD and scale > 3:
         scale -= 1
-    x_name, y_name = PAD, 60
+    x_name, y_name = PAD, 70
     cursor_x = x_name + pixel_width(name, scale) + 2 * scale
     header_height = 185
     stack_height, stack = stack_section()
@@ -148,7 +148,7 @@ def card():
     sections.append((header_height, "".join([
         text(PAD, 23, "adityagaikwad", 13, INK, 700), text(WIDTH-PAD, 23, "~/readme", 13, DIM, anchor="end"),
         f'<line x1="0" x2="{WIDTH}" y1="36.5" y2="36.5" stroke="{RULE}" stroke-dasharray="4 3"/>',
-        text(PAD, 60, "WHOAMI", 12, MID), text(94, 60, "· SDE II / AI × Infrastructure", 12, DIM),
+        text(PAD, 52, "WHOAMI", 12, MID), text(94, 52, "· SDE II @ Amazon", 12, DIM),
         pixel_name(name, x_name, y_name, scale), f'<rect x="{cursor_x}" y="{y_name}" width="{3*scale}" height="{7*scale}" fill="{INK}">{BLINK}</rect>',
         text(PAD, 130, "I build dependable systems where AI meets infrastructure.", 15, MID),
         text(PAD, 157, "Currently: Catalog ingestion reliability and AI-assisted diagnostics.", 12, DIM),
