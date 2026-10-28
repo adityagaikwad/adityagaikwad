@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adityagaikwad/adityagaikwad/main/assets/readme-v5.svg" alt="Aditya Gaikwad - engineering profile" width="850" />
+  <img src="https://raw.githubusercontent.com/adityagaikwad/adityagaikwad/main/assets/readme-v5.svg?v=13ec8af" alt="Aditya Gaikwad - engineering profile" width="850" />
 </p>
 <p align="left">
   <strong>Programming Languages</strong><br />
