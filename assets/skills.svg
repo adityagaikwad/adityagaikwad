@@ -5,7 +5,10 @@
     .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
     .section { fill:#a3a3a3; font-size:12px; letter-spacing:.7px; }
     .note { fill:#5f5f5f; font-size:12px; }
-    .tag { fill:#ededed; font-size:12px; font-weight:600; text-anchor:middle; }
+    .tag text { fill:#ededed; font-size:12px; font-weight:600; text-anchor:middle; }
+    .lang rect { fill:#18233a; stroke:#345b8f; }
+    .tools rect { fill:#17362f; stroke:#347768; }
+    .data rect { fill:#362a1a; stroke:#886331; }
   </style>
   <rect width="850" height="410" fill="#0a0a0a"/>
   <rect x=".5" y=".5" width="849" height="409" fill="none" stroke="#262626"/>
@@ -13,7 +16,7 @@
   <line x1="0" y1="37" x2="850" y2="37" stroke="#2a2a2a" stroke-dasharray="4 3"/>
 
   <text class="mono section" x="24" y="62">LANGUAGES</text><text class="mono note" x="116" y="62">· 7</text>
-  <g class="mono tag" fill="#18233a" stroke="#345b8f">
+  <g class="mono tag lang">
     <rect x="24" y="76" width="108" height="30" rx="4"/><text x="78" y="96">Python</text>
     <rect x="139" y="76" width="108" height="30" rx="4"/><text x="193" y="96">JavaScript</text>
     <rect x="254" y="76" width="108" height="30" rx="4"/><text x="308" y="96">TypeScript</text>
@@ -25,7 +28,7 @@
 
   <line x1="0" y1="122" x2="850" y2="122" stroke="#2a2a2a" stroke-dasharray="4 3"/>
   <text class="mono section" x="24" y="147">PLATFORMS + TOOLS</text><text class="mono note" x="173" y="147">· 18</text>
-  <g class="mono tag" fill="#17362f" stroke="#347768">
+  <g class="mono tag tools">
     <rect x="24" y="161" width="108" height="30" rx="4"/><text x="78" y="181">Node.js</text>
     <rect x="139" y="161" width="108" height="30" rx="4"/><text x="193" y="181">Angular</text>
     <rect x="254" y="161" width="108" height="30" rx="4"/><text x="308" y="181">Express</text>
@@ -48,7 +51,7 @@
 
   <line x1="0" y1="281" x2="850" y2="281" stroke="#2a2a2a" stroke-dasharray="4 3"/>
   <text class="mono section" x="24" y="306">DATA SYSTEMS</text><text class="mono note" x="129" y="306">· 5</text>
-  <g class="mono tag" fill="#362a1a" stroke="#886331">
+  <g class="mono tag data">
     <rect x="24" y="320" width="108" height="30" rx="4"/><text x="78" y="340">MySQL</text>
     <rect x="139" y="320" width="108" height="30" rx="4"/><text x="193" y="340">Redis</text>
     <rect x="254" y="320" width="108" height="30" rx="4"/><text x="308" y="340">MongoDB</text>
